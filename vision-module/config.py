@@ -1,0 +1,9 @@
+BACKEND_URL = "http://localhost:8000"
+
+CAMERA_INDEX = 0
+
+DETECTION_THRESHOLD = 0.5
+
+DISTANCE_THRESHOLD = 200
+
+SOURCE_ID = "camera_1"
